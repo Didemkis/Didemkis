@@ -9,4 +9,4 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
-[<img align="left" alt="medium | Medium" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />](https://medium.com/@didem.kis)
+[<img align="left" alt="medium | Medium" width="24px" src="https://commons.wikimedia.org/wiki/File:Medium_(website)_logo.svg" />](https://medium.com/@didem.kis)

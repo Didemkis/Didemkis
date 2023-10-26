@@ -6,9 +6,8 @@
 
 
 I like trying out new technologies and developing small projects.I like to solve CTF.✨
-I share what I learn and research on my blog account. 
+I share what I learn and research on my blog account 📝. I advise you to look at my medium account.
 
-You can access my blog account from here. -> [![DİDEM KIŞ](https://github-readme-medium.vercel.app/?username=didem.kis)](https://medium.com/@didem.kis)
 
 
 ### Connect with me 🐾  

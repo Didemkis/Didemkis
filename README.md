@@ -5,4 +5,6 @@
 - I share what I learned on my medium account with people. I invite you too.🎫 https://medium.com/@didem.kis
 <img src="https://tryhackme-badges.s3.amazonaws.com/didem.kis.png" alt="TryHackMe">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+            <i class="devicon-go-original-wordmark colored"></i>
+          

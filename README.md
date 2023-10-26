@@ -5,8 +5,8 @@
 - I share what I learned on my medium account with people. I invite you too.🎫 https://medium.com/@didem.kis
 <img src="https://tryhackme-badges.s3.amazonaws.com/didem.kis.png" alt="TryHackMe">
 
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
           
           

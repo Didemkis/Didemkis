@@ -11,7 +11,8 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/didemkis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didemkis" height="30" width="40" /></a>
-<a href="https://medium.com/@didem.kis"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="didem kış| Medium" width="21px"/></a>
+
+[![DİDEM KIŞ](https://github-readme-medium.vercel.app/?username=didem.kis)](https://medium.com/@didem.kis)
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>

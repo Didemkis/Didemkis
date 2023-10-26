@@ -6,17 +6,15 @@
 
 
 I like trying out new technologies and developing small projects.I like to solve CTF.✨
-I share what I learn and research on my blog account. You can access my blog account from here. -> 
-
-[![DİDEM KIŞ](https://github-readme-medium.vercel.app/?username=didem.kis)](https://medium.com/@didem.kis)
+I share what I learn and research on my blog account. You can access my blog account from here. -> [![DİDEM KIŞ](https://github-readme-medium.vercel.app/?username=didem.kis)](https://medium.com/@didem.kis)
 
 
 ### Connect with me 🐾  
 - Mail : didemkis09@gmail.com 📧
 
-  [Medium](https://medium.com/@didem.kis)
+- [Medium](https://medium.com/@didem.kis)
 
-  [Linkedın](https://www.linkedin.com/in/didemkis/)  
+- [Linkedın](https://www.linkedin.com/in/didemkis/)  
   
 
 

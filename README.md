@@ -10,8 +10,7 @@
 - I share what I learned on my medium account with people. I invite you too.🎫 https://medium.com/@didem.kis
 
 ### Connect with me:
-[(./img/linkedin-dark.svg)](https://www.linkedin.com/in/didemkis/)
-
+<a href="https://www.linkedin.com/in/didemkis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/didem.kis.png" alt="TryHackMe">
 

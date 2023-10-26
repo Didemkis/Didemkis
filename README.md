@@ -12,7 +12,8 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/didemkis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didemkis" height="30" width="40" /></a>
 
-[![DİDEM KIŞ](https://github-readme-medium.vercel.app/?username=didem.kis)](https://medium.com/@didem.kis)
+I like trying out new technologies and developing small projects.I like to solve CTF.✨
+I share what I learn and research on my blog account. You can access my blog account from here. -> [![DİDEM KIŞ](https://github-readme-medium.vercel.app/?username=didem.kis)](https://medium.com/@didem.kis)
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>

@@ -6,5 +6,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/didem.kis.png" alt="TryHackMe">
 
 
-            <i class="devicon-go-original-wordmark colored"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+          
           

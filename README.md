@@ -4,9 +4,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
-
-I like trying out new technologies and developing small projects.I like to solve CTF.✨
-I share what I learn and research on my blog account 📝. I advise you to look at my medium account.
+I am Didem Kış 👨‍💻 I work on cyber security. 🚀
+🌱I like to try new technologies and develop small projects. 
+💻 I have several trainings and internships in the field of cybersecurity. I am constantly improving myself by attending new trainings.
+🔭Cybersecurity, networking and programming on Medium
+I write articles on TryHackMe and Letsdefend, I do machine solutions. I advise you to look at my medium account. ✨[Medium Profiler](https://medium.com/@didem.kis)
+⚡[Linkedin profile](https://medium.com/@didem.kis) 
 
 
 

@@ -7,18 +7,15 @@
 I am Didem Kış 👨‍💻 I work on cyber security. 🚀
 🌱I like to try new technologies and develop small projects. 
 💻 I have several trainings and internships in the field of cybersecurity. I am constantly improving myself by attending new trainings.
-🔭Cybersecurity, networking and programming on Medium
-I write articles on TryHackMe and Letsdefend, I do machine solutions. I advise you to look at my medium account. ✨[Medium Profiler](https://medium.com/@didem.kis)
-⚡[Linkedin profile](https://medium.com/@didem.kis) 
-
+🔭Cybersecurity, networking and programming on Medium I write articles on TryHackMe and Letsdefend, I do machine solutions. I advise you to look at my medium account. 
 
 
 ### Connect with me 🐾  
 - Mail : didemkis09@gmail.com 📧
 
-- [Medium](https://medium.com/@didem.kis)
+- [Medium](https://medium.com/@didem.kis) ✨
 
-- [Linkedın](https://www.linkedin.com/in/didemkis/)  
+- [Linkedın](https://www.linkedin.com/in/didemkis/)  ⚡
   
 
 

@@ -5,8 +5,11 @@
 </div>
 
 I am Didem Kış 👨‍💻 I work on cyber security. 🚀
-🌱I like to try new technologies and develop small projects. 
+
+🌱I like to try new technologies and develop small projects.
+
 💻 I have several trainings and internships in the field of cybersecurity. I am constantly improving myself by attending new trainings.
+
 🔭Cybersecurity, networking and programming on Medium I write articles on TryHackMe and Letsdefend, I do machine solutions. I advise you to look at my medium account. 
 
 

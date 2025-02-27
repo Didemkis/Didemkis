@@ -45,9 +45,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Didemkis/Didemkis/output/snake.svg" alt="Snake animation" />
-
-###

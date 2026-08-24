@@ -24,13 +24,13 @@ Bazı haftalar korelasyon kuralı yazıp loglarda olmaması gereken şeyi arıyo
 ### 🔍 What I work with
 
 **Detection & SOC** — correlation rules, alert scenarios, log analysis and packet inspection.
-`Splunk` `Wazuh` `Wireshark` `MITRE ATT&CK` `EDR / XDR`
+
 
 **Offensive security** — recon, vulnerability analysis, exploitation and post-exploitation, plus the reporting that makes it useful.
-`Burp Suite` `Metasploit` `Nmap` `Mimikatz` `OWASP Top 10`
+
 
 **Governance & compliance** — ISMS documentation, gap analysis, policies and procedures.
-`ISO 27001` `ISO 42001` `NIST CSF` `COBIT 2019` `ISO 31000`
+
 
 ---
 

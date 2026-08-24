@@ -43,5 +43,5 @@ Bazı haftalar korelasyon kuralı yazıp loglarda olmaması gereken şeyi arıyo
 ### 👋 Say hi
 
 I write about security on **[Medium](https://medium.com/@didem.kis)** and publish lab work, PoCs and notes here.
-Find me on **[LinkedIn](https://www.linkedin.com/in/didemkis)** — always up for talking shop.
+Find me on **[LinkedIn](https://www.linkedin.com/in/didemkis)** 
 

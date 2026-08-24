@@ -34,12 +34,6 @@ Bazı haftalar korelasyon kuralı yazıp loglarda olmaması gereken şeyi arıyo
 
 ---
 
-### 🌱 Currently
-
-Sharpening web application security through the **PortSwigger Web Security Academy**, and turning lab work into write-ups rather than letting it sit in a folder.
-
----
-
 ### 📜 Certifications
 
 **eJPT** · **ISO/IEC 27001:2022 Lead Auditor** · **ISO/IEC 42001:2023 Lead Auditor** · **Cisco CyberOps Associate**
@@ -51,4 +45,3 @@ Sharpening web application security through the **PortSwigger Web Security Acade
 I write about security on **[Medium](https://medium.com/@didem.kis)** and publish lab work, PoCs and notes here.
 Find me on **[LinkedIn](https://www.linkedin.com/in/didemkis)** — always up for talking shop.
 
-<sub>☕ Best conversations start with a question nobody's asked yet.</sub>
